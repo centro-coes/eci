@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "3758079571",
     "id" : "368762F1",
-    "lastKnownWriteTime" : 1597333181,
-    "last_content_update" : 1597333181,
+    "lastKnownWriteTime" : 1597336063,
+    "last_content_update" : 1597336063110,
     "path" : "C:/Users/COES1/github/eci/about.Rmd",
     "project_path" : "about.Rmd",
     "properties" : {
-        "cursorPosition" : "4,4",
+        "cursorPosition" : "8,3",
         "scrollLine" : "0"
     },
     "relative_order" : 1,

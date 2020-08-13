@@ -1,5 +1,13 @@
 ---
-title: "ECI - COES"
+title: ' '
+output:
+  html_document:
+    df_print: paged
 ---
 
+#
+ ![](images\logoeci.jpg){height=2em}
+ 
+***
+ 
 Bienvenidos al repositorio online de la unidad de Evidencia, Conexión e Incidencia - ECI COES

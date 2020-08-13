@@ -1,5 +1,14 @@
 ---
-title: "About This Website"
+title: " "
 ---
 
-More about this website.
+
+#
+ ![](images\logoeci.jpg){height=2em}
+ 
+***
+
+La Unidad de Evidencia, Conexión e Incidencia (ECI-COES) surge en el contexto del nuevo periodo que asume COES, el cual trae consigo nuevos desafíos en materia de investigación y difusión científica. De este modo, la unidad busca impulsar iniciativas al interior del centro para fortalecer la generación de redes entre actores académicos y de la sociedad civil, posibilitando alcanzar un mayor nivel de incidencia en materia de políticas públicas.
+ 
+
+De este modo, ECI–COES se basará en la aplicación de un enfoque sustentable en investigación, el que será entendido como el desarrollo de una relación simétrica para la producción de conocimiento entre diferentes actores, tomando en consideración que todos son actores del saber a diferentes niveles. Asimismo, tendrá como principal finalidad incentivar la innovación social, entendida como la capacidad para identificar y solucionar problemas públicos.
