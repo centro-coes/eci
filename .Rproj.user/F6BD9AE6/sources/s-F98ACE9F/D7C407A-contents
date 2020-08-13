@@ -1,0 +1,15 @@
+name: "Evidencia, Conexión e Incidencia - ECI COES"
+output_dir: "."
+navbar:
+  title: "Evidencia, Conexión e Incidencia - ECI COES"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Encuesta Comunidad COES"
+      href: encuesta.html
+    - text: "Lineamientos ECI"
+      href: doc.teorico.html
+    - text: "Protocolo Notas de PP - COES"
+      href: protocolonpp.html

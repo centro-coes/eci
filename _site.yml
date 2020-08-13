@@ -1,4 +1,5 @@
 name: "Evidencia, Conexión e Incidencia - ECI COES"
+output_dir: "."
 navbar:
   title: "Evidencia, Conexión e Incidencia - ECI COES"
   left:
