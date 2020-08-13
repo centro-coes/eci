@@ -1,0 +1,5 @@
+---
+title: "Lineamientos ECI"
+---
+
+Documento teórico con los conceptos de Evidencia, Conexión e Incidencia

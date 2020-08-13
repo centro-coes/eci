@@ -1,0 +1,5 @@
+---
+title: "Encuesta Comunidad COES"
+---
+
+Sección donde se muestren resultados de uso de investigación aplicada en proyectos internos de COES y preferencias de la comunidad en dimensiones ECI.
