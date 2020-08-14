@@ -9,7 +9,8 @@ navbar:
       href: about.html
     - text: "Lineamientos ECI"
       href: doc.teorico.html
-    - text: "Encuesta Comunidad COES"
-      href: encuesta.html
     - text: "Protocolo Notas de PP - COES"
       href: protocolonpp.html
+    - text: "Encuesta Comunidad COES"
+      href: encuesta.html
+

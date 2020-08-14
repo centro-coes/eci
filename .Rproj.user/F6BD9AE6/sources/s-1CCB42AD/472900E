@@ -5,17 +5,17 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "3985545540",
     "id" : "472900E",
-    "lastKnownWriteTime" : 1597335712,
-    "last_content_update" : 1597335712322,
+    "lastKnownWriteTime" : 1597425872,
+    "last_content_update" : 1597425872944,
     "path" : "C:/Users/COES1/github/eci/index.Rmd",
     "project_path" : "index.Rmd",
     "properties" : {
-        "cursorPosition" : "6,0",
+        "cursorPosition" : "12,25",
         "scrollLine" : "0"
     },
-    "relative_order" : 2,
+    "relative_order" : 3,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "r_markdown"
